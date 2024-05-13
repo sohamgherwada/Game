@@ -1,0 +1,5 @@
+Author: Soham Gherwada
+Purpose:This is simulation where timmy and harold are climing up a slippery wall with the help of ninja's before they turn into a giant snorc and snorcs that can damage them.
+files (cc): Escape.cc Participant.cc Ninja.cc Hero.cc MoveBehavior.cc main.cc random.cc Snorc.cc
+files (h): Escape.h Participant.h Ninja.h Hero.h List.h MoveBehavior.h Snorc.h
+run: Type make     then type  ./a5 then the program will run on its own.
